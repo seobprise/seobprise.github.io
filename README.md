@@ -1,4 +1,4 @@
-# Sangseob Jeong Personal Website (HW5 Part 1)
+# Sangseob Jeong
 
 GitHub Pages에서 배포할 수 있는 반응형 정적 웹사이트입니다.
 
